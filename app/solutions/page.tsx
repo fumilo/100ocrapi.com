@@ -41,8 +41,8 @@ export default function SolutionsPage() {
             </div>
             <div className="relative">
               <Image
-                src="https://placehold.co/600x400/000000/FFFFFF?text=KYC+Compliance"
-                alt="KYC Compliance Solution"
+                src="/images/solution-kyc.jpg"
+                alt="AI-powered KYC solution ensuring compliance for financial industries"
                 width={600}
                 height={400}
                 className="rounded-lg shadow-lg"
@@ -58,8 +58,8 @@ export default function SolutionsPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div className="relative md:order-first">
               <Image
-                src="https://placehold.co/600x400/111827/FFFFFF?text=User+Onboarding"
-                alt="User Onboarding Solution"
+                src="/images/solution-onboarding.jpg"
+                alt="Seamless user onboarding process with instant ID data extraction"
                 width={600}
                 height={400}
                 className="rounded-lg shadow-lg"
@@ -105,8 +105,8 @@ export default function SolutionsPage() {
             </div>
             <div className="relative">
               <Image
-                src="https://placehold.co/600x400/1F2937/FFFFFF?text=Custom+Solutions"
-                alt="Custom Solutions"
+                src="/images/custom-document-ai.jpg"
+                alt="A tailor-made AI model being built for a unique business document"
                 width={600}
                 height={400}
                 className="rounded-lg shadow-lg"

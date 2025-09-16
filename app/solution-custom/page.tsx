@@ -9,8 +9,8 @@ export default function CustomSolutionPage() {
       <Header />
 
       <section className="py-20 px-4">
-        <div className="container max-w-4xl mx-auto space-y-12">
-          {/* Hero */}
+        {/* Hero */}
+        <div className="container max-w-6xl mx-auto space-y-12">
           <div className="text-center space-y-6">
             <h1 className="text-4xl md:text-5xl font-bold">Custom Document AI Solutions</h1>
             <p className="text-xl text-muted-foreground text-pretty">
@@ -61,7 +61,7 @@ export default function CustomSolutionPage() {
       </section>
 
       <section className="py-16 px-4">
-        <div className="container">
+        <div className="container max-w-6xl mx-auto">
           <div className="bg-muted/30 rounded-2xl border-2 border-dashed border-muted-foreground/20 p-12 text-center space-y-6">
             <h2 className="text-3xl font-bold">Ready to Automate Your Workflows?</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">

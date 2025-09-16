@@ -33,7 +33,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/products" className="text-muted-foreground hover:text-foreground">
+                <Link href="/product-national-id-card" className="text-muted-foreground hover:text-foreground">
                   National ID OCR
                 </Link>
               </li>

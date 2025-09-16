@@ -39,8 +39,8 @@ export default function ProductsPage() {
             </div>
             <div>
               <Image
-                src="https://placehold.co/600x400/000000/FFFFFF?text=Passport+Scan"
-                alt="Passport OCR scanning process"
+                src="/images/passport-ocr.jpg"
+                alt="AI scanning a passport to extract MRZ data"
                 width={600}
                 height={400}
                 className="rounded-lg shadow-lg"
@@ -56,8 +56,8 @@ export default function ProductsPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div className="md:order-first">
               <Image
-                src="https://placehold.co/600x400/111827/FFFFFF?text=License+Data"
-                alt="Driver's License OCR data extraction"
+               src="/images/drivers-license-ocr.jpg"
+                alt="Data being extracted from a driver's license for user onboarding"
                 width={600}
                 height={400}
                 className="rounded-lg shadow-lg"
@@ -99,8 +99,8 @@ export default function ProductsPage() {
             </div>
             <div>
               <Image
-                src="https://placehold.co/600x400/1F2937/FFFFFF?text=National+ID"
-                alt="National ID Card OCR processing"
+                src="/images/national-id-ocr.jpg"
+                alt="Global national ID cards being processed for KYC verification"
                 width={600}
                 height={400}
                 className="rounded-lg shadow-lg"
@@ -116,8 +116,8 @@ export default function ProductsPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div className="md:order-first">
               <Image
-                src="https://placehold.co/600x400/374151/FFFFFF?text=Custom+AI"
-                alt="Custom Document AI solution"
+                src="/images/custom-document-ai.jpg"
+                alt="Abstract representation of a custom AI model being trained for unique documents"
                 width={600}
                 height={400}
                 className="rounded-lg shadow-lg"
